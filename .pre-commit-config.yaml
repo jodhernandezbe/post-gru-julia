@@ -1,0 +1,8 @@
+repos:
+- repo: local
+  hooks:
+  - id: julia-test
+    name: Julia test
+    entry: julia
+    args: [--color=yes, ./tests/test_main.jl, --verbose, --track, --project]
+    language: system
