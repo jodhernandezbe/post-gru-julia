@@ -104,5 +104,5 @@ Look at how you can explore each of the arguments, considering their data type. 
 ### Run the code
 
 ```bash
-julia src/main.jl --data_file GOOG.csv --split_ratio 0.7 --seq_length 10 --hidden_size 70 --num_epochs 1000 --learning_rate 0.00001 --project
+julia --project src/main.jl --data_file GOOG.csv --split_ratio 0.7 --seq_length 10 --hidden_size 70 --num_epochs 1000 --learning_rate 0.00001
 ```
