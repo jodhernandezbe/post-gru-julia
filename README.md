@@ -3,7 +3,9 @@
 This is a personal project I created for two reasons:
 
 <ol>
-  <li>To write a Medium post: [Gated Recurrent Neural Network from Scratch in Julia](https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f?sk=153351e0e087318490adcc0147c66b69)</li>
+  <li>To write a Medium post:
+    [Gated Recurrent Neural Network from Scratch in Julia](https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f?sk=153351e0e087318490adcc0147c66b69)
+  </li>
   <li>To Learn and explore Julia programming language</li>
 </ol>
 
