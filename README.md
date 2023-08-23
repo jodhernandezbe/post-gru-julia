@@ -3,9 +3,7 @@
 This is a personal project I created for two reasons:
 
 <ol>
-  <li>To write a Medium post:
-    [Gated Recurrent Neural Network from Scratch in Julia](https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f?sk=153351e0e087318490adcc0147c66b69)
-  </li>
+  <li>To write a Medium post</li>
   <li>To Learn and explore Julia programming language</li>
 </ol>
 
@@ -108,3 +106,7 @@ Look at how you can explore each of the arguments, considering their data type. 
 ```bash
 julia --project src/main.jl --data_file GOOG.csv --split_ratio 0.7 --seq_length 10 --hidden_size 70 --num_epochs 1000 --learning_rate 0.00001
 ```
+
+## Medium post
+
+Read the Medium post titled [Gated Recurrent Neural Network from Scratch in Julia](https://pub.towardsai.net/gated-recurrent-neural-network-from-scratch-in-julia-ad8b2dabe37f?sk=153351e0e087318490adcc0147c66b69).
